@@ -32,6 +32,11 @@
     "SpacingBetweenSlices": 3,
     "SAR": 0.0135677,
     "EchoNumber": 1,
+    "TablePosition": [
+        0,
+        0,
+        0
+    ],
     "EchoTime": 0.00492,
     "RepetitionTime": 0.3,
     "FlipAngle": 25,

@@ -33,6 +33,11 @@
     "SpacingBetweenSlices": 2.2,
     "SAR": 0.0543311,
     "EchoNumber": 2,
+    "TablePosition": [
+        0,
+        0,
+        0
+    ],
     "EchoTime": 0.0046,
     "RepetitionTime": 5.46009,
     "RepetitionTimeExcitation": 0.035,
